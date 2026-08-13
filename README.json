@@ -1,0 +1,790 @@
+{
+  "items": [
+    {
+      "description": "MCP 客户端是 AI 的“操作台”，以下是几个热门选择：",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Cherry Studio",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：Cherry Studio",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T04:00:51Z",
+                "owner": "CherryHQ",
+                "repo": "cherry-studio",
+                "stars": 50360
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "5ire",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：5ire 官网",
+              "description": "GitHub 仓库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T10:23:01Z",
+                "owner": "nanbingxyz",
+                "repo": "5ire",
+                "stars": 5339
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Claude Code",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：GitHub 仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T20:56:21Z",
+                "owner": "anthropics",
+                "repo": "claude-code",
+                "stars": 141263
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DeepChat",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：DeepChat 官网",
+              "description": "GitHub 仓库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T04:00:57Z",
+                "owner": "ThinkInAIXYZ",
+                "repo": "deepchat",
+                "stars": 6214
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "eechat",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：eechat 官网",
+              "description": "GitHub 仓库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T13:26:43Z",
+                "owner": "Lucassssss",
+                "repo": "eechat",
+                "stars": 346
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MCP Dock",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：官网",
+              "description": "GitHub 仓库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-06-22T06:44:20Z",
+                "owner": "OldJii",
+                "repo": "mcp-dock",
+                "stars": 226
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Cline",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：GitHub 仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T03:46:30Z",
+                "owner": "cline",
+                "repo": "cline",
+                "stars": 66097
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Continue",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：GitHub 仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T00:52:47Z",
+                "owner": "continuedev",
+                "repo": "continue",
+                "stars": 35462
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Goose",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：GitHub 仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-13T03:05:09Z",
+                "owner": "aaif-goose",
+                "repo": "goose",
+                "stars": 52738
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AnythingLLM",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：GitHub 仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T00:34:53Z",
+                "owner": "Mintplex-Labs",
+                "repo": "anything-llm",
+                "stars": 64667
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LibreChat",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：GitHub 仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T03:59:09Z",
+                "owner": "danny-avila",
+                "repo": "LibreChat",
+                "stars": 41971
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dive",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "链接：GitHub 仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-31T03:11:22Z",
+                "owner": "OpenAgentPlatform",
+                "repo": "Dive",
+                "stars": 1825
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "其他MCP客户端资源",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-mcp-clients",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-07T18:57:48Z",
+                "owner": "punkpeye",
+                "repo": "awesome-mcp-clients",
+                "stars": 6544
+              }
+            }
+          ]
+        }
+      ],
+      "title": "MCP 客户端"
+    },
+    {
+      "description": "(让 AI 能够像人一样浏览网页、提取信息、填写表单等)",
+      "items": [],
+      "title": "🌐 浏览器自动化与网页交互"
+    },
+    {
+      "description": "(让 AI 能够运行代码、分析代码库、与开发工具集成等)",
+      "items": [],
+      "title": "💻 开发与代码执行"
+    },
+    {
+      "description": "(让 AI 能够执行命令行指令、与 Shell 交互)",
+      "items": [],
+      "title": "🖥️ 命令行与 Shell 交互"
+    },
+    {
+      "description": "(让 AI 能够操作代码仓库、管理 Pull Request、处理 Issues 等)",
+      "items": [],
+      "title": "🔄 版本控制 (Git / GitHub / GitLab)"
+    },
+    {
+      "description": "(让 AI 能够查询数据库、检查表结构、甚至修改数据)",
+      "items": [],
+      "title": "🗄️ 数据库交互"
+    },
+    {
+      "description": "(让 AI 能够管理云资源、调用云服务 API 等)",
+      "items": [],
+      "title": "☁️ 云平台与服务集成 (AWS, Cloudflare, Azure, K8s, etc.)"
+    },
+    {
+      "description": "(让 AI 能够调用各种搜索引擎或专业搜索服务)",
+      "items": [],
+      "title": "🔍 搜索"
+    },
+    {
+      "description": "(让 AI 能够收发消息、管理日程、参与团队协作等)",
+      "items": [],
+      "title": "💬 通讯与协作 (Slack, Email, Calendar, Social, etc.)"
+    },
+    {
+      "description": "(让 AI 能够获取金融数据、分析股票、与区块链交互等)",
+      "items": [],
+      "title": "💰 金融与加密货币"
+    },
+    {
+      "description": "(让 AI 能够访问本地文件、操作云存储等)",
+      "items": [],
+      "title": "📁 文件系统与存储"
+    },
+    {
+      "description": "(让 AI 能够处理表格数据、生成图表、进行数据探索等)",
+      "items": [],
+      "title": "📊 数据分析、处理与可视化"
+    },
+    {
+      "description": "(让 AI 能够使用日历、任务管理、项目管理、笔记等工具)",
+      "items": [],
+      "title": "🛠️ 效率工具与集成 (Office, Project Management, Notes, etc.)"
+    },
+    {
+      "description": "(让 AI 能够生成动画、编辑视频、处理图像、语音合成等)",
+      "items": [],
+      "title": "multimedia 多媒体与内容创作"
+    },
+    {
+      "description": "(让 AI 能够进行社媒数据采集、内容发布、自动化互动及多账号管理)",
+      "items": [],
+      "title": "📕 社交媒体与内容创作 (小红书/RedNote)"
+    },
+    {
+      "description": "(让 AI 能够读取电商平台的商家经营数据：订单、商品、售后、广告报表等)",
+      "items": [],
+      "title": "🛒 电商商家经营 (E-Commerce)"
+    },
+    {
+      "description": "(让 AI 拥有长期记忆、能够基于特定知识库回答问题等)",
+      "items": [],
+      "title": "🧠 知识、记忆与 RAG"
+    },
+    {
+      "description": "(让 AI 能够进行安全扫描、二进制分析、风险评估等)",
+      "items": [],
+      "title": "🔒 安全与分析"
+    },
+    {
+      "description": "(让 AI 能够处理地理位置数据、地图、天气、交通出行信息等)",
+      "items": [],
+      "title": "🌍 地理位置与出行"
+    },
+    {
+      "description": "(让 AI 能够访问体育赛事数据、游戏信息等)",
+      "items": [],
+      "title": "🏃 体育与游戏"
+    },
+    {
+      "description": "(让 AI 能够访问艺术收藏、文化遗产、博物馆数据库等)",
+      "items": [],
+      "title": "🏛️ 艺术与文化"
+    },
+    {
+      "description": "(包括计算器、API 集成、特定平台工具、聚合器、框架辅助等)",
+      "items": [],
+      "title": "🛠️ 其他实用工具与集成"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T06:21:30Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-agent",
+          "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T16:35:16Z",
+            "owner": "lastmile-ai",
+            "repo": "mcp-agent",
+            "stars": 8502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcsmcp",
+          "description": "Lab for creating an MCP Server and using it in Microsoft Copilot Studio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-08T16:11:47Z",
+            "owner": "microsoft",
+            "repo": "mcsmcp",
+            "stars": 339
+          }
+        }
+      ],
+      "title": "MCP 更多玩法"
+    },
+    {
+      "description": "发现很多server 可用性不够，单开一个模块推荐自己使用过的优质 Server，欢迎大家在这个板块提交自己测试后的优质Server，提交的时候请同步提交使用 Server截图。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "notion-mcp-server",
+          "description": "Official Notion MCP Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T16:20:03Z",
+            "owner": "makenotion",
+            "repo": "notion-mcp-server",
+            "stars": 4588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "douyin-mcp-server",
+          "description": "提取抖音无水印视频链接，视频文案",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2026-07-02T07:21:26Z",
+            "owner": "yzfly",
+            "repo": "douyin-mcp-server",
+            "stars": 1248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-hotnews-server",
+          "description": "A Model Context Protocol server that provides real-time hot trending topics from major Chinese social platforms and news sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-22T10:48:07Z",
+            "owner": "wopal-cn",
+            "repo": "mcp-hotnews-server",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roundtable-ai",
+          "description": "经过全面测试的统一AI编程助手MCP服务器，零配置安装，专为多AI工具集成和自主代理开发优化。一键pip安装即可使用，支持Claude Desktop、Cursor等主流客户端，为中国开发者提供稳定可靠的AI编程工作流。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-06T04:11:43Z",
+            "owner": "askbudi",
+            "repo": "roundtable",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-github-trending",
+          "description": "MCP server for getting github trending repos & developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T07:29:24Z",
+            "owner": "hetaoBackend",
+            "repo": "mcp-github-trending",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "亲测优质Server"
+    },
+    {
+      "description": "想玩转 MCP？这些资源帮你省时间：",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "社区资源",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub MCP 组织",
+              "description": "：官方代码和示例。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T15:57:45Z",
+                "owner": "modelcontextprotocol",
+                "repo": "modelcontextprotocol",
+                "stars": 8936
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MCP分析资料",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MCP 与 ANP 对比",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-04T13:56:08Z",
+                "owner": "agent-network-protocol",
+                "repo": "AgentNetworkProtocol",
+                "stars": 1388
+              }
+            }
+          ]
+        }
+      ],
+      "title": "MCP 资源"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MCP Server 开发"
+    },
+    {
+      "description": "我们可以用像 Claude 这样的大语言模型（LLM）来加速 MCP 开发！\n如何使用 LLM 来构建自定义的模型上下文协议（MCP）服务器和客户端？以 Claude 为例，其他大模型（GPT、Gemini、Grok、Qwen、DeepSeek）都适用。",
+      "items": [],
+      "title": "1. 使用 LLM 构建 MCP 服务器"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FastMCP",
+          "description": "快速、Pythonic 的 MCP 服务器与客户端构建框架，几行代码即可暴露工具、资源和提示词。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T19:27:46Z",
+            "owner": "PrefectHQ",
+            "repo": "fastmcp",
+            "stars": 27197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/python-sdk",
+          "description": "MCP 官方 Python SDK，用于构建 MCP 服务器与客户端，提供标准协议实现、工具/资源/提示词定义等完整能力。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:45:08Z",
+            "owner": "modelcontextprotocol",
+            "repo": "python-sdk",
+            "stars": 23998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/typescript-sdk",
+          "description": "MCP 官方 TypeScript SDK，在 Node/浏览器环境构建 MCP 服务器与客户端的权威实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T07:12:54Z",
+            "owner": "modelcontextprotocol",
+            "repo": "typescript-sdk",
+            "stars": 13155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastapi_mcp",
+          "description": "零配置将现有 FastAPI 端点自动暴露为 MCP 工具，原生支持鉴权，轻松让 AI 调用你的 API。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T14:51:54Z",
+            "owner": "tadata-org",
+            "repo": "fastapi_mcp",
+            "stars": 11980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Inspector",
+          "description": "官方可视化调试工具，可连接并交互测试任意 MCP 服务器，查看工具、资源、提示词，开发调试必备。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:48:06Z",
+            "owner": "modelcontextprotocol",
+            "repo": "inspector",
+            "stars": 10653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-use",
+          "description": "开源 MCP 客户端库，几行代码即可让任意 LLM 连接并调用 MCP 服务器，快速构建自定义 Agent。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:00:53Z",
+            "owner": "mcp-use",
+            "repo": "mcp-use",
+            "stars": 10484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mark3labs/mcp-go",
+          "description": "Go 语言的 MCP 实现，提供简洁的 API 用于快速构建 MCP 服务器，让工具与资源开发更高效。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:29:17Z",
+            "owner": "mark3labs",
+            "repo": "mcp-go",
+            "stars": 8999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/go-sdk",
+          "description": "MCP 官方 Go SDK，与 Google 合作维护，用于构建 MCP 服务器与客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T08:52:52Z",
+            "owner": "modelcontextprotocol",
+            "repo": "go-sdk",
+            "stars": 4970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/csharp-sdk",
+          "description": "MCP 官方 C#/.NET SDK，与 Microsoft 合作维护。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:15:31Z",
+            "owner": "modelcontextprotocol",
+            "repo": "csharp-sdk",
+            "stars": 4470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/rust-sdk",
+          "description": "MCP 官方 Rust SDK (rmcp)，适合高性能场景。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:34:40Z",
+            "owner": "modelcontextprotocol",
+            "repo": "rust-sdk",
+            "stars": 3795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langchain-ai/langchain-mcp-adapters",
+          "description": "官方适配器，将 MCP 工具无缝接入 LangChain / LangGraph Agent。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T06:17:09Z",
+            "owner": "langchain-ai",
+            "repo": "langchain-mcp-adapters",
+            "stars": 3627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Context Protocol(MCP) 编程极速入门",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-23T14:06:41Z",
+            "owner": "liaokongVFX",
+            "repo": "MCP-Chinese-Getting-Started-Guide",
+            "stars": 3555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "punkpeye/fastmcp",
+          "description": "构建 MCP 服务器的 TypeScript 框架，简洁 API 快速暴露工具/资源/提示词。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:01:11Z",
+            "owner": "punkpeye",
+            "repo": "fastmcp",
+            "stars": 3250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/ext-apps",
+          "description": "MCP Apps 协议官方规范与 SDK，标准化在 AI 聊天界面中嵌入、由 MCP 服务器提供的交互式 UI。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:04:55Z",
+            "owner": "modelcontextprotocol",
+            "repo": "ext-apps",
+            "stars": 2709
+          }
+        }
+      ],
+      "title": "2. 更多MCP编程资源"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    },
+    {
+      "description": "本项目基于 MIT 许可证，自由使用和修改，请保留版权声明。Copyright (c) 2025 云中江树",
+      "items": [],
+      "title": "许可证"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:51.668Z",
+    "original_repository": "yzfly/Awesome-MCP-ZH",
+    "original_repository_sha": "b29e114d95fa26338b092423fd1ede1e5598e4df",
+    "enhanced_repository": "enhansome/enhansome-Awesome-MCP-ZH",
+    "enhanced_repository_description": null,
+    "title": "Awesome-MCP-ZH with stars"
+  }
+}
