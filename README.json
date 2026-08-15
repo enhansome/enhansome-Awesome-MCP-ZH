@@ -16,10 +16,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T05:35:44Z",
+                "last_commit": "2026-08-15T04:06:08Z",
                 "owner": "CherryHQ",
                 "repo": "cherry-studio",
-                "stars": 50449
+                "stars": 50488
               }
             }
           ]
@@ -40,7 +40,7 @@
                 "last_commit": "2026-07-15T10:23:01Z",
                 "owner": "nanbingxyz",
                 "repo": "5ire",
-                "stars": 5338
+                "stars": 5336
               }
             }
           ]
@@ -58,10 +58,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T23:29:59Z",
+                "last_commit": "2026-08-14T22:20:56Z",
                 "owner": "anthropics",
                 "repo": "claude-code",
-                "stars": 141395
+                "stars": 141494
               }
             }
           ]
@@ -79,10 +79,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T05:57:34Z",
+                "last_commit": "2026-08-15T04:27:16Z",
                 "owner": "ThinkInAIXYZ",
                 "repo": "deepchat",
-                "stars": 6221
+                "stars": 6223
               }
             }
           ]
@@ -124,7 +124,7 @@
                 "last_commit": "2026-06-22T06:44:20Z",
                 "owner": "OldJii",
                 "repo": "mcp-dock",
-                "stars": 226
+                "stars": 227
               }
             }
           ]
@@ -142,10 +142,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T06:01:36Z",
+                "last_commit": "2026-08-15T02:33:24Z",
                 "owner": "cline",
                 "repo": "cline",
-                "stars": 66160
+                "stars": 66206
               }
             }
           ]
@@ -163,10 +163,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T00:52:47Z",
+                "last_commit": "2026-08-14T11:40:23Z",
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 35477
+                "stars": 35484
               }
             }
           ]
@@ -184,10 +184,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-14T05:31:01Z",
+                "last_commit": "2026-08-14T23:11:25Z",
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 52778
+                "stars": 52819
               }
             }
           ]
@@ -208,7 +208,7 @@
                 "last_commit": "2026-08-13T22:31:08Z",
                 "owner": "Mintplex-Labs",
                 "repo": "anything-llm",
-                "stars": 64705
+                "stars": 64718
               }
             }
           ]
@@ -226,10 +226,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T06:04:23Z",
+                "last_commit": "2026-08-15T04:56:03Z",
                 "owner": "danny-avila",
                 "repo": "LibreChat",
-                "stars": 42006
+                "stars": 42049
               }
             }
           ]
@@ -271,7 +271,7 @@
                 "last_commit": "2026-06-07T18:57:48Z",
                 "owner": "punkpeye",
                 "repo": "awesome-mcp-clients",
-                "stars": 6547
+                "stars": 6548
               }
             }
           ]
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-13T21:48:08Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39564
+            "stars": 39574
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-01-25T16:35:16Z",
             "owner": "lastmile-ai",
             "repo": "mcp-agent",
-            "stars": 8507
+            "stars": 8506
           }
         },
         {
@@ -446,7 +446,7 @@
             "last_commit": "2026-07-25T16:20:03Z",
             "owner": "makenotion",
             "repo": "notion-mcp-server",
-            "stars": 4589
+            "stars": 4595
           }
         },
         {
@@ -524,10 +524,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T15:57:45Z",
+                "last_commit": "2026-08-14T18:39:22Z",
                 "owner": "modelcontextprotocol",
                 "repo": "modelcontextprotocol",
-                "stars": 8952
+                "stars": 8958
               }
             }
           ]
@@ -577,10 +577,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:41:07Z",
+            "last_commit": "2026-08-15T04:01:26Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27207
+            "stars": 27218
           }
         },
         {
@@ -591,10 +591,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T09:45:08Z",
+            "last_commit": "2026-08-14T16:59:57Z",
             "owner": "modelcontextprotocol",
             "repo": "python-sdk",
-            "stars": 24001
+            "stars": 24003
           }
         },
         {
@@ -605,10 +605,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:42:22Z",
+            "last_commit": "2026-08-15T04:08:59Z",
             "owner": "modelcontextprotocol",
             "repo": "typescript-sdk",
-            "stars": 13167
+            "stars": 13169
           }
         },
         {
@@ -622,7 +622,7 @@
             "last_commit": "2025-11-24T14:51:54Z",
             "owner": "tadata-org",
             "repo": "fastapi_mcp",
-            "stars": 11982
+            "stars": 11983
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-12T16:48:06Z",
             "owner": "modelcontextprotocol",
             "repo": "inspector",
-            "stars": 10663
+            "stars": 10667
           }
         },
         {
@@ -650,7 +650,7 @@
             "last_commit": "2026-08-14T00:49:39Z",
             "owner": "mcp-use",
             "repo": "mcp-use",
-            "stars": 10488
+            "stars": 10491
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-08-12T12:29:17Z",
             "owner": "mark3labs",
             "repo": "mcp-go",
-            "stars": 9006
+            "stars": 9008
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-13T14:43:41Z",
             "owner": "modelcontextprotocol",
             "repo": "go-sdk",
-            "stars": 4976
+            "stars": 4979
           }
         },
         {
@@ -689,10 +689,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T08:45:54Z",
+            "last_commit": "2026-08-14T15:40:57Z",
             "owner": "modelcontextprotocol",
             "repo": "csharp-sdk",
-            "stars": 4474
+            "stars": 4476
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-08-13T12:40:00Z",
             "owner": "modelcontextprotocol",
             "repo": "rust-sdk",
-            "stars": 3799
+            "stars": 3801
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-08-06T06:17:09Z",
             "owner": "langchain-ai",
             "repo": "langchain-mcp-adapters",
-            "stars": 3627
+            "stars": 3628
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2026-08-12T17:01:11Z",
             "owner": "punkpeye",
             "repo": "fastmcp",
-            "stars": 3250
+            "stars": 3251
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-12T15:04:55Z",
             "owner": "modelcontextprotocol",
             "repo": "ext-apps",
-            "stars": 2716
+            "stars": 2720
           }
         }
       ],
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:04:56.775Z",
+    "last_updated": "2026-08-15T05:03:07.354Z",
     "original_repository": "yzfly/Awesome-MCP-ZH",
     "original_repository_sha": "b29e114d95fa26338b092423fd1ede1e5598e4df",
     "enhanced_repository": "enhansome/enhansome-Awesome-MCP-ZH",
