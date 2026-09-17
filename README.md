@@ -578,6 +578,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 ***
 
 ### 🔍 搜索
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. 远程 MCP：`https://statsnet.co/mcp` · Registry：`io.github.usenetstate/statsnet`
 
 *(让 AI 能够调用各种搜索引擎或专业搜索服务)*
 
